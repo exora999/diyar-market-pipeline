@@ -1,0 +1,5 @@
+Name,Created at,Financial Status,Total,Payment Method,Lineitem name,Qty,SKU,Shipping Name,Shipping City,Phone
+#3041,2026-11-02 14:21:07 +0100,pending,420.00,Cash on Delivery,Zربية بني وراين 2x3,1,ZRB-BW-23,سلمى بن عمر,casa,0661234567
+#3042,2026-11-02 18:05:44 +0100,paid,189.00,Card,Huile d’argan 250ml,3,ARG-250,Salma Benomar,Casablanca,+212 661-23-45-67
+#3043,2026-11-03 09:12:30 +0100,paid,95.00,Card,Tajine terre cuite,1,TAJ-M,Claire Dupont,Lyon,+33612345678
+#3044,2026-11-03 21:40:02 +0100,refunded,260.00,PayPal,Zربية بني وراين 2x3,,ZRB-BW-23,Youssef El A.,الدار البيضاء,

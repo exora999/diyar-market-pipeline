@@ -1,0 +1,4 @@
+N° Colis;Réf Client;Date Dépôt;Date Livraison;Ville Destinataire;Montant COD;Statut;Motif Retour
+AM2611002345;#3041;02/11/2026;05/11/2026;CASABLANCA;420,00;Livré;
+AM2611002399;#3042;03/11/2026;;Casablanca;0,00;En cours;
+AM2611002871;3044;03/11/2026;09/11/2026;Dar el Beida;0,00;Retourné;Client absent

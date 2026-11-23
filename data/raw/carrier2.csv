@@ -1,0 +1,3 @@
+tracking,order_ref,shipped_on,delivered_on,city,cod_amount,status,notes
+LV-88213,"#3043",2026-11-03,2026-11-07,Lyon,0.00,DELIVERED,
+LV-88240,"#3045",2026-11-04,,Marrakech,310.50,RETURNED,"refused by customer"
